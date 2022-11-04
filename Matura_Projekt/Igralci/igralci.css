@@ -1,0 +1,83 @@
+
+table{
+    border-collapse: collapse;
+    margin: 20px 20% 0 20%;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    padding: 0;
+
+}
+
+.first td{
+    background-color: #313332;
+    height: 35px;   
+    color: white;
+    border-bottom: 2px solid black;
+}
+
+.col1{
+    width: 200px;
+}
+
+.col2{
+    width: 200px;
+}
+
+.col3{
+    width: 200px;
+}
+
+.col4{
+    width: 200px;
+}
+.col4d{
+    width: 100px;
+}
+
+.col5{
+    width: 150px;
+}
+
+.col-drzava{
+    width: 100px;
+}
+
+.colk{
+    width: 50px;
+}
+
+.naslov{
+    display: grid;
+    place-items: center;
+}
+
+td{
+    border-bottom: 1px solid gray;
+    height: 33px;
+}
+
+tr:hover{
+    background-color: coral;
+}
+
+.filter-row{
+    border: 1px solid black;
+    width: 13%;
+    height: 40px;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    background-color:seagreen;
+}
+
+.center{
+    display: grid;
+    place-items: center;
+    margin-top: 40px;
+}
+
+select{
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+}

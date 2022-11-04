@@ -1,0 +1,77 @@
+.center{
+    display: grid;
+    place-content: center;
+    height: 60px;
+}
+
+
+
+.selectSezona{
+    display: grid;
+    place-items: center;
+    margin-top: 10px;
+    background-color:seagreen ;
+    height: 40px;
+    width: 8%;
+    border-radius: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-top: 50px;
+    padding-top:10px;
+    border-spacing:10px;
+    
+}
+
+tr{
+    border-bottom: 1px solid black;
+}
+
+table tr:hover{
+    background-color: darkgray;
+}
+td{
+    text-align: center;
+    height: 40px;
+}
+
+.col1{
+    width: 200px;
+    text-align: left;
+    padding-left: 3px;
+
+}
+
+.col2{
+    width: 450px;
+    text-align: left;
+}
+
+.col3{
+    width: 100px; 
+}
+.col4{
+    width: 50px;
+}
+
+
+
+.first{
+    background-color:#222;
+    color: white;
+}
+.wrapper{
+    display: grid;
+    place-items: center;
+    height: 50px;
+}
+
+.selectSezona select{
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+
+

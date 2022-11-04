@@ -1,0 +1,186 @@
+body{
+    height: 2500px;
+   
+}
+
+.center{
+    display: grid;
+    place-items: center;
+}
+
+.tekma-data
+{
+    height: 35px;
+    font-weight: 900;
+    border: 1px solid Black;
+    width: 600px;
+    margin-top: 30px;
+    background-color: darkgreen;
+    color: white;
+}
+
+.col1{
+    width: 400px;
+    float:left;
+    border: 1px solid black;
+    height: 440px;
+    margin-top: 50px;
+    margin-right: 70px;
+    background-color: #222;
+    color: lightgrey;
+    border-radius: 10px;
+}
+
+
+.col2{
+    width: 400px;
+    float:left;
+    border: 1px solid black;
+    height: 440px;
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: #222;
+    color: lightgrey;
+    border-radius: 10px;
+}
+
+.col1 tr:hover{
+    color: whitesmoke;
+}
+
+.col2 tr:hover{
+    color: whitesmoke;
+}
+
+.rezultat{
+    
+    width: 600px;
+    height: 330px;
+    background-color:#222;
+    color:white;
+    border: 1px solid #222;
+}
+
+.logo-col
+{
+    width: 30%;
+    float: left;
+    height: 150px;
+    margin-top:90px;
+    margin-left: 10px;
+}
+
+.rez-col{
+    width: 15%;
+    float: left;
+    height: 100px;
+    margin-top:90px;
+    margin-left: 10px;
+}
+
+.box{
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    color: black;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.postava td{
+    height: 30px;
+}
+
+.rezerve td{
+    height: 30px;
+}
+
+.col2 .center{
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-top: 5px;
+}
+
+.col1 .center{
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-top: 5px;
+}
+
+.col1-menjave{
+    width: 400px;
+    float:left;
+    border: 1px solid black;
+    height: 390px;
+    margin-top: 50px;
+    margin-right: 70px;
+    background-color: #222;
+    color: lightgrey;
+    border-radius: 10px;
+}
+
+.col2-menjave{
+    width: 400px;
+    float:left;
+    border: 1px solid black;
+    height: 390px;
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: #222;
+    color: lightgrey;
+    border-radius: 10px;
+}
+
+.zadetki table{
+    width:550px;
+    border-collapse: collapse;
+}
+
+.menjave table{
+    width:550px;
+    margin-top: 60px;
+    border-collapse: collapse;
+}
+
+.first{
+    background-color: black;
+    color: white;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.zadetki{
+    margin-top: 50px;
+}
+
+.menjave td{
+    height: 33px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.zadetki td{
+    border-bottom: 1px solid lightgrey;
+}
+
+.kazni table{
+    width: 550px;
+    border-collapse: collapse;
+}
+
+.kazni{
+    margin-top: 60px;
+}
+
+.kazni td{
+    height: 33px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.rezerve table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.rezerve td{
+    border-bottom: 1px solid darkgreen;
+}

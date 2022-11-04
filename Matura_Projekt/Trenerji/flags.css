@@ -1,0 +1,165 @@
+.flag{
+    background-image:url(../flags/flags-sprite.png);
+    width: 30px;
+    height: 19px;
+    display: inline-block;
+    margin-left:4px;
+    margin-top: 1px;
+}
+
+.DE{
+    background-position: -120px -120px;
+}
+
+.EN{
+    background-position: -120px -140px;
+}
+
+.GH{
+    background-position: -120px -160px;
+}
+
+.SC{
+    background-position: 0 -160px;
+}
+
+.IE{
+    background-position: -180px -140px;
+}
+
+.ES{
+    background-position: -150px -120px;
+}
+
+.AR{
+    background-position: -30px -40px;
+}
+
+.NL{
+    background-position: -30px -200px;
+}
+
+.EG{
+    background-position: -150px -100px;
+}
+
+.FR{
+    background-position: -60px -140px;
+}
+
+.BE{
+    background-position: -30px -60px;
+}
+
+.CZ{
+    background-position:-90px -120px;
+}
+
+.CH{
+    background-position: -90px -100px;
+}
+
+.PL{
+    background-position: 0 -220px;
+}
+
+.GR{
+    background-position: -180px -40px;
+}
+
+.RS{
+    background-position: -150px -220px;
+}
+
+.SE{
+    background-position: -240px 0;
+}
+
+.WA{
+    background-position: -30px -160px;
+}
+
+.NO{
+    background-position: -60px -200px;
+}
+
+.KR{
+    background-position: -210px 0;
+}
+
+.NG{
+    background-position: 0 -200px;
+}
+
+.CO{
+    background-position: -120px -80px;
+}
+
+
+.PT{
+    background-position: -60px -220px;
+}
+
+.IT{
+    background-position: -60px -180px;
+}
+
+.HR{
+    background-position: -180px -100px;
+}
+
+.DK{
+    background-position: -150px -20px;
+}
+
+.SN{
+    background-position: -240px -80px;
+}
+
+.MA{
+    background-position: -210px -80px;
+}
+
+.NIE{
+    background-position: -150px -140px;
+}
+
+.TN{
+    background-position: -240px -160px;
+}
+
+.US{
+    background-position: -30px -240px;
+}
+
+.JP{
+    background-position: -120px -180px;
+}
+
+.JM{
+    background-position: -90px -180px;
+}
+
+.ZM{
+    background-position: -150px -240px;
+}
+
+.UA{
+    background-position: 0 -240px;
+}
+
+.ZW{
+    background-position: -180px -240px;
+}
+
+.CM{
+    background-position: -120px -40px;
+}
+
+.FI{
+    background-position: 0 -140px;
+}
+
+.TH{
+    background-position: -240px -140px;
+}

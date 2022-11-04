@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat';
+    width: 100%;
+}
+
+.sidemenu{
+    position: fixed;
+    top:0;
+    left: 0px;
+    height: 100%;
+    width: 0px;
+    background-color: #222;
+    z-index: 1;
+    padding-top: 100px;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.sidemenu a{
+    padding: 8px 8px 8px 64px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #999;
+    display: block;
+    transition: 0.3s;
+}
+.sidemenu a:hover{
+    color: white;
+}
+
+.icon{
+    position:absolute;
+    left: 95%;
+    top: 27px;
+    color: white;
+    z-index: 100;
+    font-size: 30px;
+}
+
+#main{
+    transition: margin-left .5s;
+}
+
+.container{
+    background-color: #222;
+    height: 100px;
+    width: 100%;
+}
+
+.icon button{
+    background-color: #222;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid wheat;
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    padding-top: 0px;
+    cursor: pointer;
+}
+
+.home{
+    margin-left: 0;
+}
+
+.uporabnik{
+    color: white;
+    margin-top:200px;
+    display: grid;
+    place-items: center;
+}
+
+.uporabnik a{
+    color: #999;
+    margin-left: -55px;
+}
+
+#back{
+    transition: margin-left .5s;
+}
+
+

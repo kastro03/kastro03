@@ -1,0 +1,93 @@
+body{
+    height: 2000px;
+}
+
+.containerObrazec{
+    margin: 0 13% 0 20%;
+    margin-top: 30px;
+}
+
+.col1{
+    float: left;
+    width: 50%;
+    height: 50px;
+    margin-top: 40px;
+}
+
+.col2{
+    float: left;
+    width: 50%;
+    height: 50px;
+    margin-top: 40px;
+}
+
+.inputPlayer{
+    width: 390px;
+}
+
+.FTrezultat{
+    margin-top:40px;
+    margin-left: 427px;
+    height: 23px;
+}
+
+.FTrezultat input{
+    width: 20px;
+}
+
+.vnos{
+    position: absolute;
+    top: 0%;
+    left: 71%;
+}
+.vnos button{
+    background-color: #222;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    position: absolute;
+    top: 108px;
+    left: 96%;
+    border-radius: 10px;
+}
+
+.HTrezultat{
+    margin-left: 427px;
+margin-top: 650px;
+    height: 23px;
+}
+
+.HTrezultat input{
+    width: 20px;
+}
+
+.sodnik{
+    margin-top:40px;
+    margin-left: 381px;
+    height: 23px;
+}
+
+.sodnik select{
+    width: 150px;
+}
+
+.naslov{
+    margin-left: 20%;
+    margin-right: 25%;
+    display: grid;
+    place-items: center;
+    background-color: green;
+    color: white;
+}
+
+#krog{
+    margin-left: 20px;
+    width: 50px;
+    text-align: center;
+}
+
+#menjave{
+    padding-top: 900px;
+}
+
+

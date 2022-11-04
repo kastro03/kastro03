@@ -1,0 +1,21 @@
+.box{
+    margin-left: 10%;
+}
+
+.row{
+    height: 70px;
+    width: 50%;
+    display: grid;
+    place-items: center;
+}
+
+.gumb{
+    border: 1px solid green;
+    border-radius: 10px;
+    width: 300px;
+    background-color: lightgreen;
+    height: 30px;
+    cursor: pointer;
+    font-family: 'Montserrat';
+    font-size: 20px;
+}

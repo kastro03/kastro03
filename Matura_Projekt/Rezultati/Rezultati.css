@@ -1,0 +1,60 @@
+.center{
+    display: grid;
+    place-items: center;
+}
+
+.first{
+    color: white;
+    background-color: black;
+    height: 33px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+
+table{
+    width: 60%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.result-row{
+border-bottom: 1px solid lightgray;
+}
+
+.result-row:hover{
+    background-image: linear-gradient(to right, rgba(28, 149, 46,0), rgb(28, 149, 46,1));
+    cursor: pointer;
+}
+
+.result-row td{
+    height: 35px;
+}
+.col1{
+    width: 40%;
+    text-align: right;
+}
+
+.col2{
+    width:5%;
+    text-align: center;
+}
+
+.box{
+    display: grid;
+    place-items: center;
+    height: 33px;
+    width: 33px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+.selectSezona{
+    display: grid;
+    place-items: center;
+    margin-top: 10px;
+    background-color:seagreen ;
+    height: 40px;
+    width: 8%;
+    border-radius: 10px;
+}

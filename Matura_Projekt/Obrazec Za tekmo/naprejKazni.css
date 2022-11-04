@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat';
+    height: 1000px;
+}
+
+.container{
+    height: 100px;
+    background-color: #222;
+    display: grid;
+    place-items: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.naslovGlavni{
+    margin: 0;
+    background-color: green;
+    color: white;
+    width: 100%;
+    display: flex;
+}
+
+.col{
+    float: left;
+    width: 50%;
+    height: 900px;
+  }
+
+  #wrapper{
+      height: 100%;
+  }
+
+  .naslov{
+    height: 50px;
+    display: grid;
+    place-items: center;
+    width:100%;
+}
+
+#back{
+    position: absolute;
+    top: 12%;
+    left: 9%;
+}
+
+#back button{
+    background-color: #222;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.submit  button{
+    background-color: #222;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.submit{
+    flex: 20%;
+    display: grid;
+    place-content: center;
+}
+
+.nazaj{
+    flex:20%;
+    display: grid;
+    place-content: center;
+}
+
+.naslovG{
+    flex: 60%;
+    display: grid;
+    place-content: center;
+}
+
+.input-menjava-wrapper
+{
+    display: grid;
+    place-content: center;
+    height: 160px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+table{
+    background-color:rgb(239, 230, 213);
+    width: 320px;
+    border: 3px solid darkgreen;
+    border-radius: 10px;
+    
+}
+td{
+    text-align: center;
+    height: 32px;
+}
+
+.col3 td{
+    text-align: left;
+}
+
+.dodajKazen input{
+    background-color: yellowgreen;
+    border: 1px solid green;
+    border-radius: 5px;
+    height: 22px;
+}
+
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+#k{
+    width: 178px;
+}

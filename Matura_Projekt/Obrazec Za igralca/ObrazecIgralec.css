@@ -1,0 +1,26 @@
+.obrazec{
+    display: grid;
+    place-items: center;
+    margin-top: 30px;
+}
+
+input,select{
+    width: 200px;
+}
+
+
+#vnos{
+    width:150px;
+    margin-top:20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    color: white;
+    background-color: green;
+    height: 23px;
+
+}
+
+td{
+    padding-left: 60px;
+}
+

@@ -1,0 +1,83 @@
+
+table{
+   
+    border-collapse: collapse;
+    margin: 20px 25% 0 25%;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    padding: 0;
+    background-color: white;
+
+}
+
+.prikaz td{
+    height:33px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.prikaz:hover td{
+    background-color: rgb(72, 163, 216);
+}
+
+.first td{
+    background:#313332;
+    color: white;
+    height: 35px;   
+    font-weight: 900;
+}
+
+.colFlag{
+     width: 100px;
+}
+.colKlub{
+ width: 50px;
+}
+
+.col1{
+    width: 240px;
+    font-weight: 600;
+}
+
+.col2{
+    width: 200px;
+}
+
+.col3{
+    width: 150px;
+}
+
+.col4{
+    width: 270px;
+}
+
+.col5{
+    width: 200px;
+}
+
+.naslov{
+    text-align: center;
+    
+}
+
+.filter-row{
+    border: 1px solid black;
+    width: 8%;
+    height: 40px;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    background-color:seagreen;
+}
+
+.center{
+    display: grid;
+    place-items: center;
+    margin-top: 40px;
+}
+
+select{
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+}
+
